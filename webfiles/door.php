@@ -1,6 +1,6 @@
 <?php
 	$file = "./variables/doorstatus.txt";
-	if($_POST["password"] == "FamilyAndFriends"){
+	if($_POST["password"] == "<PASSWORD HERE>"){
 		file_put_contents($file,$_POST["door"]);
 	}
 	else
@@ -9,5 +9,5 @@
 		echo "<br>";
 	}
 	
-	echo "<a href=http://tktprojects.esy.es/minecraft/homecontrol/v1/cp.html>Back to control panel</a>";
+	echo "<a href=http://<URL HERE>/cp.html>Back to control panel</a>";
 ?>
