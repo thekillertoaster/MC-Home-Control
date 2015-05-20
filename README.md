@@ -1,5 +1,5 @@
 # MC-Home-Control
-A web house-control system for minecraft
+A web-based house-control system for minecraft
 
 Requirements: A brain, Minecraft, Computercraft (or similar) and a webserver
 
