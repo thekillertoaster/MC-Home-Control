@@ -29,3 +29,5 @@ Go through each step as follows:
 Note: You will know that you setup the computer right because on startup, it will show a screen saying "Listening for inputs"
 
 Depending on the program that you loaded, the outputs of the computer will be different. Please refer to pastebin.txt for information regarding the outputs of each node.
+
+For ease of use, I have also included the raw lua files for each node.
