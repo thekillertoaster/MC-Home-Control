@@ -1,6 +1,9 @@
 # MC-Home-Control
 A web house-control system for minecraft
 
+Requirements: A brain, Minecraft, Computercraft (or similar) and a webserver
+
+
 *Setup Tutorial*
 
 To get things setup, you need to follow these steps.
@@ -11,4 +14,18 @@ Go through each step as follows:
 
 2. upload these webfiles to a webserver and verify that you can navigate the menu.
 
-3. 
+3. In your minecraft session, place down a computer (computercraft) and type in the following commands:
+
+> pastebin get <pastebin code> startup
+
+> edit startup
+
+4. Go through and configure the program with your webserver.
+
+5. Press Ctrl and the navigate to save.
+
+6. Hold Ctrl + R to restart the computer.
+
+Note: You will know that you setup the computer right because on startup, it will show a screen saying "Listening for inputs"
+
+Depending on the program that you loaded, the outputs of the computer will be different. Please refer to pastebin.txt for information regarding the outputs of each node.
