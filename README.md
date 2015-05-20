@@ -17,9 +17,9 @@ Pull requests are welcome. If I feel you have contributed greatly to the project
 
 	1. In your minecraft session, place down a computer (computercraft) and type in the following commands:
 
-	2. pastebin get <pastebin code> startup
+	2. 'pastebin get <pastebin code> startup'
 
-	3. edit startup
+	3. 'edit startup'
 
 	4. Go through and configure the program with your webserver.
 
