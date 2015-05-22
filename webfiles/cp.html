@@ -1,12 +1,21 @@
 <html>
-	<body>
+	<body bgcolor="#999999">
+		<center>
 		<h1>House Control</h1>
-		<h3>V1</h3>
-		<form action="door.php" method="post">
-			Door: <input type="radio" name="door" value="open">Open
-			<input type="radio" name="door" value="closed" checked="checked">Close
+		<h3>V0.5</h3>
+		<form action="handler.php" method="post">
+			Door: <input type="radio" id="dooropen" name="door" value="open">Open
+			<input type="radio" id="doorclose" name="door" value="closed" checked="checked">Close
+			<br>Lights: <input type="radio" id="lighton" name="lights" value="on" checked="checked">On
+			<input type="radio" id="lightoff" name="lights" value="off">Off
 			<br>Password: <input type="text" name="password">
 			<br><input type="submit">
 		</form>
+		<script src="sync.js"></script>
+		<script>
+			syncfilestates();
+		</script>
+		</center>
+		
 	</body>
 </html>
