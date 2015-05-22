@@ -9,7 +9,7 @@ Pull requests are welcome. If I feel you have contributed greatly to the project
 
 1. Webserver
 
-	1. Navigate to 'webfiles' and go through each of the PHP files and set the custom variables.
+	1. Navigate to "handler.php" and change the password variable to a desired value.
 
 	2. upload these webfiles to a webserver and verify that you can navigate the menu.
 
@@ -32,6 +32,10 @@ Note: You will know that you setup the computer right because on startup, it wil
 Depending on the program that you loaded, the outputs of the computer will be different. Please refer to pastebin.txt for information regarding the outputs of each node.
 
 For ease of use, I have also included the raw lua files for each computercraft node.
+
+### Adding custom variables:
+
+COMING SOON
 
 ### Credits:
 
