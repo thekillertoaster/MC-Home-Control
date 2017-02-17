@@ -1,8 +1,0 @@
-Door Control:
-Redstone Output: Back
-Code: GVp0m2Pb
-
-Light Control:
-Redstone Output: Back
-Code: sGSa3xeH
-
